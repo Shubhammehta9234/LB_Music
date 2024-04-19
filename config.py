@@ -67,7 +67,7 @@ STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
 STRING5 = getenv("STRING_SESSION5", None)
 
-
+h
 BANNED_USERS = filters.user()
 adminlist = {}
 lyrical = {}
@@ -77,21 +77,21 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://graph.org/file/b490638fd73cd0ec1d1ad.jpg"
+    "START_IMG_URL", "https://graph.org/file/b5aab72226185cfcdf309.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://graph.org/file/b490638fd73cd0ec1d1ad.jpg"
+    "PING_IMG_URL", "https://graph.org/file/79de5fcf84ee82ac388d8.jpg"
 )
-PLAYLIST_IMG_URL = "https://graph.org/file/b490638fd73cd0ec1d1ad.jpg"
-STATS_IMG_URL = "https://graph.org/file/b490638fd73cd0ec1d1ad.jpg"
-TELEGRAM_AUDIO_URL = "https://graph.org/file/b490638fd73cd0ec1d1ad.jpg"
-TELEGRAM_VIDEO_URL = "https://graph.org/file/b490638fd73cd0ec1d1ad.jpg"
-STREAM_IMG_URL = "https://graph.org/file/b490638fd73cd0ec1d1ad.jpg"
-SOUNCLOUD_IMG_URL = "https://graph.org/file/b490638fd73cd0ec1d1ad.jpg"
-YOUTUBE_IMG_URL = "https://graph.org/file/b490638fd73cd0ec1d1ad.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://graph.org/file/b490638fd73cd0ec1d1ad.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://graph.org/file/b490638fd73cd0ec1d1ad.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://graph.org/file/b490638fd73cd0ec1d1ad.jpg"
+PLAYLIST_IMG_URL = "https://graph.org/file/5a4401755b110d1836939.jpg"
+STATS_IMG_URL = "https://graph.org/file/55cf736b2cdcd1610b4e1.jpg"
+TELEGRAM_AUDIO_URL = "https://graph.org/file/55cf736b2cdcd1610b4e1.jpg"
+TELEGRAM_VIDEO_URL = "https://graph.org/file/4aaed0f29b18d9034c49f.jpg"
+STREAM_IMG_URL = "https://graph.org/file/79de5fcf84ee82ac388d8.jpg"
+SOUNCLOUD_IMG_URL = "https://graph.org/file/55cf736b2cdcd1610b4e1.jpg"
+YOUTUBE_IMG_URL = "https://graph.org/file/55cf736b2cdcd1610b4e1.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://graph.org/file/79de5fcf84ee82ac388d8.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://graph.org/file/55cf736b2cdcd1610b4e1.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://graph.org/file/79de5fcf84ee82ac388d8.jpg"
 
 
 def time_to_seconds(time):
